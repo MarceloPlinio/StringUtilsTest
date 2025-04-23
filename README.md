@@ -1,8 +1,9 @@
 # 🔄 StringUtils - Manipulador de Strings em Java
 
+### Atividade 2 - Unifg
+
 Esse projeto é um exercício simples feito em Java pra treinar 💪 lógica de programação e testes com JUnit!  
 O objetivo principal é criar um método que **inverta strings** e garantir que ele funcione direitinho com diferentes tipos de entrada.
-Atividade 2 - Unifg
 
 ## 📂 Estrutura do Projeto
 
